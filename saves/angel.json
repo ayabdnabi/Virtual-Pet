@@ -1,0 +1,44 @@
+{
+  "pet": {
+    "name": "angel",
+    "petType": "PetOption2",
+    "health": 100,
+    "sleep": 100,
+    "fullness": 100,
+    "happiness": 100,
+    "maxHealth": 100,
+    "maxSleep": 100,
+    "maxFullness": 100,
+    "maxHappiness": 100,
+    "healthDeclineRate": 3,
+    "fullnessDeclineRate": 2,
+    "sleepDeclineRate": 3,
+    "happinessDeclineRate": 5,
+    "isSleeping": false,
+    "isHungry": false,
+    "isHappy": true,
+    "isDead": false,
+    "lastVetVisitTime": 0,
+    "vetCooldownDuration": 30,
+    "lastPlayTime": 0,
+    "playCooldownDuration": 20
+  },
+  "inventory": {
+    "playerCoins": 1851,
+    "foodInventory": {
+      "Lamb Chop": 0,
+      "Orange": 5
+    },
+    "giftInventory": {
+      "outfit2": 1
+    },
+    "toyInventory": {
+      "Wand": 1,
+      "Basketball": 1
+    },
+    "outfitInventory": {
+      "outfit2": true
+    }
+  },
+  "totalPlayTime": 827712
+}

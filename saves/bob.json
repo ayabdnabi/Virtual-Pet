@@ -1,0 +1,43 @@
+{
+  "pet": {
+    "name": "bob",
+    "petType": "PetOption3",
+    "health": 100,
+    "sleep": 80,
+    "fullness": 88,
+    "happiness": 100,
+    "maxHealth": 100,
+    "maxSleep": 100,
+    "maxFullness": 100,
+    "maxHappiness": 100,
+    "healthDeclineRate": 3,
+    "fullnessDeclineRate": 3,
+    "sleepDeclineRate": 5,
+    "happinessDeclineRate": 3,
+    "isSleeping": false,
+    "isHungry": false,
+    "isHappy": true,
+    "isDead": false,
+    "lastVetVisitTime": 1743665243,
+    "vetCooldownDuration": 30,
+    "lastPlayTime": 0,
+    "playCooldownDuration": 20,
+    "currentOutfit": "outfit3"
+  },
+  "inventory": {
+    "playerCoins": 3600,
+    "foodInventory": {
+      "Orange": 5
+    },
+    "giftInventory": {
+      "outfit3": 1
+    },
+    "toyInventory": {
+      "Wand": 1
+    },
+    "outfitInventory": {
+      "outfit3": false
+    }
+  },
+  "totalPlayTime": 16937
+}
